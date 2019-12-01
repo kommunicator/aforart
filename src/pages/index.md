@@ -59,6 +59,11 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
+      - author: James Doe
+        avatar: /images/10.jpg
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
     title: Testimonials
     type: testimonialsblock
   - actions:
